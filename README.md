@@ -1,2 +1,3 @@
-## Buisness Website HomeAnX
+## Business Website HomeAnX
 A Website Repo
+Henlo World
