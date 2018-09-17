@@ -14,3 +14,4 @@
   [] selecting food things =D
 [] Contact pages
   [] 3 hyperlinked images!
+[] also figure out how to do a custom image at the side of the tab where the paper thing is.
