@@ -12,3 +12,5 @@
   [] add multiple pages for menu
   [] make it send a order to a thing :D
   [] selecting food things =D
+[] Contact pages
+  [] 3 hyperlinked images!
