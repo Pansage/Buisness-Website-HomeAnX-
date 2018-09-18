@@ -185,5 +185,9 @@ li.dropdown {
     display: block;
 }
 
+div {
+    overflow: auto;
+}
+
 </style>
 </head>

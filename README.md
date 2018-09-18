@@ -2,9 +2,10 @@
 
 ## To-Do list
 
-[] Add a Navbar
-  [] Drop down menus :D
-[] Figure out how to make updating promotions and popup menus.
+[x] Add a Navbar
+  [x] Drop down menus :D
+[] Figure out how to make updating promotions.
+  [] Make custom food menus (lush inspired!)
 [] Logo in a circle (hyperlinks)
 [] background
 [] MENUS!
@@ -14,4 +15,4 @@
   [] selecting food things =D
 [] Contact pages
   [] 3 hyperlinked images!
-[] also figure out how to do a custom image at the side of the tab where the paper thing is.
+[] also figure out how to do a custom image at the side of the tab where the paper thing is. MAKE IT UPDATE!
